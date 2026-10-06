@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nyahaldekartik45-create.github.io/student-help-services-ratnagiri/sitemap.xml
